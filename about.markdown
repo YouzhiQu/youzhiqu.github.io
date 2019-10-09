@@ -1,0 +1,66 @@
+---
+layout: page
+title: Youzhi Qu
+author: youzhiqu
+permalink: /about/
+---
+
+<p style="color:green;font-size:18px;">1286 W Adams Blvd·Los Angeles, California 90007</p>
+<hr/>  
+<h3>EDUCATION </h3>
+<hr/> 
+
+
+<h4>University of Southern California	Los Angeles, CA</h4>
+<div style="float:left"><p>Master of Science, Computer Science </p></div>
+<div style="float:right"><p>from January 2018 to December 2019</p></div>
+<br>
+<h4>Shandong University	China </h4>
+<div style="float:left"><p>Bachelor of Engineering, Computer Science and Technology </p></div>
+<div style="float:right"><p>from September 2013 to June 2017 </p></div>
+<br>             
+
+ 
+
+<h3>PROJECT EXPERIENCE</h3>  
+<hr/>      
+<h4>Ebay Product Search Web Platform</h4>	
+<p style="color:green;font-size:14px;">from January 2019 to May 2019</p>                                                                   
+<ul>
+<li>Building responsive web application based on the Angular 7 by using Node.js tool on Google Cloud Platform.</li>
+<li>Making IP API, Ebay API, Google Customized Search API and Facebook API call for locating user, searching products or similar products and sharing to Facebook.</li>
+</ul>
+<h4>Image Processing System for Antimicrobial Susceptibility Project</h4>	
+<p style="color:green;font-size:14px;">Sponsored by Shandong Academy of Agricultural Sciences from May 2018 to August 2018 </p>       
+                                                             
+<ul>
+<li>Depending on color in tissue culture plate 96 after staining, system calculated antimicrobial susceptibility of antibiotics against animal bacterial diseases.</li>
+<li>Using OpenCV in Java to position and identify color in 96 holes.</li>
+<li>Redesigned a way to capture tissue culture plate 96 to reduce labor costs.</li>
+</ul>
+
+
+<h4>Land Resource Management System Project</h4>	
+<p style="color:green;font-size:14px;">from June 2015 to July 2015</p>                                                             
+<ul>
+<li>Organizing a team to build database and design Java client. The aim of system is to manage land resource leasing and send notices to tenants.</li>
+<li>Coordinating with customer service to get a more economical way to use third party API to send SMS to tenants</li>
+</ul>
+
+<hr/>     
+<h3>INTERNSHIP EXPERIENCE</h3>  
+<hr/>            
+<h4>Brandboom</h4>	
+<p style="color:green;font-size:14px;"> Part time in Los Angeles, CA from October 2018 to May 2019</p>                                                                   
+<ul>
+<li>Refactored old version API controller using PHP and JavaScript.</li>
+<li>Brandboom is a B2B e-commerce platform, helping user reach out to more retail buyers in less time and using AI match user with buyers looking for similar products sold by user.</li>
+</ul>
+	
+<h4>
+Inspur Intelligent Terminal Research and Development Center</h4>	
+<p style="color:green;font-size:14px;">Intern in Shandong, China from January 2016 to February 2016</p>                                                                   
+<ul>
+<li>Assisted in developing network management platform for Nexus series switches based on NX-API.</li>
+<li>Working in group to design web interface, used python, Html and MySQL to write programs and collated documents of network management platform.</li>
+</ul>
