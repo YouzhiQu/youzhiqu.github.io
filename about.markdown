@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Youzhi Qu
+title: About
 author: youzhiqu
 permalink: /about/
 ---
-
+<hr/>
+<h1>Youzhi Qu </h1>
 <p style="color:green;font-size:18px;">1286 W Adams Blvd·Los Angeles, California 90007</p>
 <hr/>  
 <h3>EDUCATION </h3>
