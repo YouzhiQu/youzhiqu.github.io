@@ -5,11 +5,19 @@ subtitle: "official Jekyll version of the Clean Blog theme on Start Bootstrap"
 date: 2019-10-20 10:01:15
 background: '/img/posts/06.jpg'
 ---
-
 <h2 class="section-heading">Official Jekyll Version -- Clean Blog</h2>
 </br>
 <blockquote class="blockquote">Clean Blog Jekyll is a stylish, responsive blog theme for Bootstrap created by Start Bootstrap. This theme features a blog homepage, about page, contact page, and an example post page along with a working contact form powered by Formspree.</blockquote>
 </br>
 <a href="https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll" ><p class="h3">Visit github for startbootstrap-clean-blog-jekyll</p></a>
+</br>
+<h3>build site</h3>
+<p>bundle exec jekyll serve</p>
+<h3>problem</h3>
+<p class="highlight">jekyll 3.8.6 | Error:  Permission denied - bind(2) for 127.0.0.1:4000.</p>
+<p>Because port 4000 is already in use.</p>
+<p>Windows:</p>
 
-<p>build site: bundle exec jekyll serve</p>
+<p class="highlight">netstat -ano|findstr "4000"</p>
+
+<p>use task manager to kill task which pid is 4000</p>
